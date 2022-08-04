@@ -1,0 +1,58 @@
+Ciência da Computação surgiu em meados do século 20
+
+ > Matemática
+ > Engenharia
+ > Ciências naturais
+ > Arte
+ > Esporte
+
+ 
+ Habilidades:
+  Resolver problemas do mundo real
+  > Formular problema real em termo computacional
+  > Elaborar solução 
+    > algoritmo
+
+  > escrever programa, testar
+
+
+  Habilidades avançadas:
+
+  > Gerenciar software de grande porte
+  > Construir software para lidar com grandes quantidades de dados
+  > Gerenciar equipes de desenvolvimento de software
+  > Comunicar-se com clientes e usuários
+
+  
+  o que aprenderemos:
+
+  Aprender a programar
+
+
+  Algoritmo = Lista de instruções passo a passo (como receita para solucionar um problema)
+
+  Analisar o problema > criar algoritmo > escrever programa > testar
+
+
+Linguagem de Programação
+(formal, precisa, que instruções podem ser executadas por um computador)
+
+Linguagem de alto nível
+ >Python, Java, Ruby, C, C++, JavaScript
+
+ 
+ Codigo fonte tem comandos, lidos pelo interpretador que gera a saída
+
+ Linguagens compiladas:
+  Texto > Compilador > Código > Executavel > Saída 
+
+  JAVA e PYTHON são executaveis e compiladas. 
+
+
+  -----------------------
+
+  > Aprender a escrever códigos csimples
+  > Executar pequenos programas
+  > Aprender novos conceitos
+  > Aumentar sofisticação.
+  
