@@ -1,0 +1,25 @@
+VALORES E TIPOS DE VALORES
+
+10 é número
+
+int = numero inteiro
+str = string
+float = numero com ponto flutuante. casas depois da vírgula
+
+% resto da divisao
+
+
+peso = 78
+altura = 1.83
+
+altura grava float, peso grava int
+
+imc = peso / (altura ** 2)
+
+IMCINTEIRO = int(IMC)
+
+        len vai mostrar o comprimento dos caracteres
+        IMC é float, não tem comprimento. Se eu transformar ele em string. 
+        len(str(IMC))
+
+        
