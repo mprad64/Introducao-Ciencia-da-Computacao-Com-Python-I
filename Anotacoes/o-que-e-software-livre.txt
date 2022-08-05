@@ -1,0 +1,71 @@
+Software Livre: 
+
+Computação
+> Analisar problema, criar algoritmo, escrever algoritmo, testar 
+Representar na forma de programa
+
+O programa é peculiar
+livro tem conhecimento
+ > sobre ferramentas (é o conhecimento)
+
+ Uma ferramenta tem uma utillidade
+  > Mas não é acessivel o conhecimento que a gerou 
+
+  Um programa de computador é as duas coisas
+
+Programas podem ser facilmente copiados
+Programas podem ser modificados
+
+> A MESMA FERRAMENTA PODE SER USADA POR VARIAS PESSOAS E O CONHECIMENTO ACESSIVEL POR TODOS
+Porém,, do ponto de vista Legal os programas tem copyright (direitos do autor)
+
+o uso da ferramenta tem restrições
+
+O conhecimento não pode ser usado por todos e muitas vezes o código-fonte é secreto
+
+CODIGO FONTE > interpretador > Saída
+
+CÓDIGO FONTE > COMPILADOR > CÓDIGO OBJETO > EXECUTOR > SAÍDA
+
+O programa de código fechado vc nao tem acesso ao código fonte, apenas ao OBJETO
+
+
+o SOFTWARE Livre
+
+Software pode e deve ser compartilhado
+ > Ferramenta vai solucionar o problema dele, cópia
+ > Amigo vai apender com meu trabalho (analisando meu código fonte)
+
+ Se ambos trabalhamos juntos, a solução é mais eficaz
+
+ comunidade
+
+ DEFINIÇÃO
+    Um programa é software livre se oferecer as 4 liberdades:
+         Executar
+         ESTUDAR E MODIFICAR
+         REDISTRIBUIR
+         MELHORAR E REDISTRIBUIR AS MELHORIAS
+
+
+Vantagens:
+    Redução do Custo e Risco
+    mais desenvolvedor
+    mais usuarios
+    orgulho pessoal dos desenvolvedores
+
+
+Java
+Ruby
+Python 
+ São software livre
+
+Ferramentas: 
+Firefox, Android (quase 100%), Apache, MySQL
+
+
+www.opensource.org - Open Source Iniciative - promover vantagnes comerciais  
+www.fsf.org - Free Software Foundation - expansão do software livre e conscientização dos aspectos éticos
+ccsl.ime.usp.br - Atividades de Pesquisa e extensão relacionadas ao Software Livre no imeUSP
+
+
