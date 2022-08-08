@@ -1,0 +1,73 @@
+Booleno vem de George boole (matemático)
+valores com 2 tipos (ligado / desligado - on/off - true, false)
+
+Tipo de dado: Booleano (True/False)
+
+5 > 3 
+True
+
+18 == 9 * 2
+True
+
+x = 12312
+x < 0
+False
+
+type(False)
+<class 'bool'>
+
+O tipo de (x>0)
+A expressão é boolenada
+
+Operadores booleanos (E / OU )
+and or 
+
+X > 0 and x **2 > 100 
+True
+
+x < 0 and x == 12312
+False
+
+OR 
+
+x < 0 or x == 12312
+
+NOT
+
+x > 0 
+not x > 0 
+not True = False 
+not False = True 
+
+not inverte. 
+
+Tabela da verdade dos operadores lógicos 
+
+Segunda Feira vou pra praia?
+
+fizerSol = True
+forFeriado = False 
+vouParaPraia = fizerSol and forFeriado
+
+
+paitrocinio = False
+rolarPromocao = True 
+vouAoShow = paitrocinio or rolarPromocao
+OR (um ou outro verdadeiro)
+
+============ PRECEDENCIA DE OPERADORES ============
+7(alto) - EXPONENCIAÇÃO |   **
+6 - MULTIPLICAÇÃO       |   *, /, //, %
+5 - ADIÇÃO -            |   + , - 
+4 - RELACIONAL          |   ==, !=, <=, >=, > , < 
+3 - LÓGICO              |   not 
+2 - LÓGICO              |   and 
+1 (baixo)               |   or 
+
+
+
+
+
+
+
+
