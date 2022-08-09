@@ -1,0 +1,20 @@
+só executar se uma condição for satisfeita
+
+if condição:
+    comando
+comando3
+(execução Condicional)
+
+
+
+if condição:
+    comando
+else:
+    comandof1
+    comandof2
+Comandoseguinte
+
+Python Documentation
+
+docs.python.org
+
