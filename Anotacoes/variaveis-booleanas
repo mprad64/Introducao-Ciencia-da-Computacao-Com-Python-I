@@ -1,0 +1,32 @@
+""" decrescente = True
+anterior = int(input("Digite o primeiro número da sequência: "))
+
+valor = 1 
+
+
+while valor != 0 and decrescente:
+    valor = int(input("Digite o próximo número da sequência: "))
+    if valor > anterior:
+        decrescente = False
+    anterior = valor
+
+if decrescente:
+    print("A sequência está em ordem decrescente!")
+else:
+    print("A sequência não está em ordem decrescente! ") """
+
+
+meuCartao = int(input("Digite o número do seu cartão: "))
+
+cartaoLido = 1
+encontreiMeuCartaoNaLista = False
+
+while cartaoLido != 0:
+    cartaoLido= (int(input("Digite o número do próximo cartão de crédito: ")))
+    if cartaoLido == meuCartao:
+        encontreiMeuCartaoNaLista = True
+
+if encontreiMeuCartaoNaLista:
+    print("Eba! Meu cartão está lá! ")
+else:
+    print("Xi, meu cartão não está lá.....")
