@@ -48,3 +48,32 @@ while (i > 0):
     i = i - 3
     print(i)
 """
+
+""" x = 50
+while not (x == 10):
+    x = x-1
+    if x % 2 != 0:
+        print (x)
+"""
+
+""" terminou = False
+p = i = 0
+while (not terminou):
+    n = int(input("Digite um número, ou zero para terminar: "))
+    if n == 0:
+        terminou = True
+    else:
+        if n % 2 == 0:
+            p = p + 1
+        else: 
+            i = i + 1
+
+print (f"P = {p}")
+print (f"I = {i}")
+"""
+
+n = 5
+i = 1
+while i < n:
+      print("iteração")
+      i = i + 1
